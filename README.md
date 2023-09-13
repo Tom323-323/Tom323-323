@@ -1,4 +1,4 @@
-### Hi, I'm John Lebedev
+# Hi, I'm John Lebedev
 
 A android developer
 -------------------
