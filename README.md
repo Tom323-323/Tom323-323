@@ -1,3 +1,12 @@
+Hi 👋 My name is John Lebedev
+=============================
+
+A android developer
+-------------------
+
+* 🌍  I'm based in Russia
+* ✉️  You can contact me at [tomas0dft@gmail.com](mailto:tomas0dft@gmail.com)
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Tom323-323" target="_blank">
