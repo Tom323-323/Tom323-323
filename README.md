@@ -2,7 +2,8 @@
 
 A android developer
 -------------------
-[![Telegram Badge](https://img.shields.io/badge/-@Tom_Hartmann_DE-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tomas0dft@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-@Tom_Hartmann_DE-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Tom_Hartmann_DE) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tomas0dft@gmail.com)
+
 
 ## Socials
  <p align="left">
