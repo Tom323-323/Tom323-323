@@ -31,6 +31,3 @@ Android developer
 
 ---
 
-### GitHub Profile
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tom323-323&theme=vue)
-
